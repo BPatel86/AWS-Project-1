@@ -1,4 +1,5 @@
 # AWS-Project-1
+# I completed this project as part of a **certification course - Architecting Solutions on AWS** on Coursera
 
 # Serverless Architecture for Scalable Cleaning Supplies E-commerce Platform
 
